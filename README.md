@@ -12,13 +12,22 @@ In the second half of the course, devices, asynchrony and thus asynchronous prog
 ###Units/Topics
 
 Unit 1
--- Memory and Numbers 
--- Static Scalars and Arrays 
--- Instance Variables and Dynamic Allocation 
--- Static Control Flow 
--- Procedures and the Stack 
--- Dynamic Control Flow and Polymorphism 
+*Memory and Numbers 
+
+*Static Scalars and Arrays
+
+*Instance Variables and Dynamic Allocation 
+
+*Static Control Flow 
+
+*Procedures and the Stack 
+
+*Dynamic Control Flow and Polymorphism 
+
 Unit 2
--- I/O Devices, Interrupts and DMA 
--- Virtual Processors (Threads) 
--- Synchronization 
+
+*I/O Devices, Interrupts and DMA 
+
+*Virtual Processors (Threads) 
+
+*Synchronization 
