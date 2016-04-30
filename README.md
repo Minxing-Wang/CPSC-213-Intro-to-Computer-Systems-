@@ -12,6 +12,7 @@ In the second half of the course, devices, asynchrony and thus asynchronous prog
 ###Units/Topics
 
 Unit 1
+
 *Memory and Numbers 
 
 *Static Scalars and Arrays
@@ -31,3 +32,24 @@ Unit 2
 *Virtual Processors (Threads) 
 
 *Synchronization 
+
+
+### Assignments: 
+
+*1: Memory and Numbers
+
+*2: CPU 
+
+*3: Static Variables 
+
+*4: Structs and Instance Variables
+
+*5: Dangling Pointers and Reference Counting
+
+*6: Static Control Flow and the Stack
+
+*7: Dynamic Control Flow
+
+*8: IO, Asynchrony and Threads
+
+*9: Synchronization (Mutex and Semaphores)
